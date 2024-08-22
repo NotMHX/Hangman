@@ -1,0 +1,16 @@
+balloon-Light, inflatable object often used in celebrations or parties.
+bedroom-Room in a house where people sleep, often with a bed and personal belongings.
+notebook-Small book for writing notes, often used by students or for journaling.
+football-Sport involving a round ball kicked with your feet.
+backpack-Bag worn on the back, used for carrying books, supplies, or gear.
+airplane-Flying vehicle used for air travel, typically with wings and engines.
+popcorn-Snack made from heated corn kernels, often eaten at movies.
+cookbook-Book containing recipes and instructions for preparing various dishes.
+baseball-Sport involving a bat, ball, and bases, popular in the United States.
+keyboard-Set of keys on a computer or piano, used for input or playing music.
+pancakes-Flat, round breakfast food made from batter, often served with syrup.
+mountain-Large, natural elevation of the Earth's surface, often snow-capped.
+woodwork-Craft of shaping or carving wood into objects or structures.
+waterfall-Natural feature where water flows over a cliff or steep area.
+breakfast-First meal of the day, typically eaten in the morning.
+epicness-Quality of being grand, heroic, or impressive on a large scale.
